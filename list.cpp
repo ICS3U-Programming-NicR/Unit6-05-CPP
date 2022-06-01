@@ -62,5 +62,5 @@ main() {
     // call functions
     average = AverageCalculator(markList);
     // output
-    std::cout << "Your average is: " << average << "%\n";
+    cout << "Your average is: " << average << "%\n";
 }
